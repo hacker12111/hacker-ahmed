@@ -17,7 +17,7 @@
             <div class="invisible-box">
                 <p class="token-label unselectable">ahmed hacker</p>
                 <input id="token" type="password" spellcheck="false">
-                <a href="https://www.youtube.com/@hacker-ahmed" class="contact-label unselectable">Github</a>
+                <a href="https://www.youtube.com/@hacker-ahmed" class="contact-label unselectable">youtube</a>
                 <button id="submit" class="unselectable">Login</button>
             </div>
         </div>
